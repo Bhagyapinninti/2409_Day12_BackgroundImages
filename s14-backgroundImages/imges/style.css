@@ -1,0 +1,61 @@
+body{
+    background-color:forestgreen;
+    color: white;
+}
+
+img{
+    object-fit:contain;
+    width: 500px;
+    height: 300px;
+}
+
+.hanuman{
+    background-color: black;
+    border: 10px dotted crimson;
+    display: inline-block;
+    width:500px;
+    height: 500px;
+    text-align: justify;
+    font-size: 1.5rem;
+    padding: 20px;
+    margin: 20px;
+    background-image: url("./ramlogo-removebg-preview.png");
+    background-size: 100px 100px;
+    background-repeat: repeat-x;
+    background-position: center ;
+    
+    
+}
+
+.lakshmi{
+background-image: url("./sun.jpg");
+background-size: cover;
+
+}
+
+.ganesh{
+    background-color: gold;
+    background-image: url("./ome-removebg-preview\ \(1\).png");
+    background-size: 100px 100px;
+    background-repeat: repeat;
+    color: black;
+    background-clip: content-box;
+    background-attachment: scroll;
+
+}
+.krish{
+    background-color: darkolivegreen;
+background-image: url("./Screenshot_2024-09-28_153741-removebg-preview.png");
+background-size: 200px;
+background-repeat: repeat;
+background-attachment: fixed;
+
+}
+
+.shiv{
+    background-color:lightgreen;
+background-image: url("./galaxy1.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-origin: content-box;
+}
